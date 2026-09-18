@@ -1,5 +1,7 @@
 Claude Monet Bio Webpage
 
+🔗 **[View the live site →](https://evie0007.github.io/Claude-Monet-Bio-Webpage/)**
+
 Quick start (Windows PowerShell)
 
 1) Install Node.js (one-time)
